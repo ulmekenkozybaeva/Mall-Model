@@ -1,2 +1,2 @@
 # Mall-Model
-Mall Model created using SQLAlchemy. 
+Mall database model created using SQLAlchemy. 
